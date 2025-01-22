@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://imgur.com/a/APqichm" alt="Datasec25-Grav>
+<img src="https://i.imgur.com/IFfi61P.png" alt="Datasec25-Grav">
   <p align="center">
     𝕏 <a href="https://x.com/Gabscvu">Seguíme en X</a> • 
     🤗 <a href="https://huggingface.co/Gradv">Hugging Face</a> • 
-    📙 <a href="https://">Bitácora de clase</a>
+    📙 <a href="https://github.com/GabrielAscencio/datasec25/blob/main/BITACORA.md">Bitácora de clase</a>
   </p>
 </div>
 <br/>
