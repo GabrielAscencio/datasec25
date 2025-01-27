@@ -114,3 +114,14 @@ En esta sesión:
 8. **Vectores de ataque:**
    - Escenarios de exposición de un sistema de información.
 
+
+### Cuarta sesión  
+**Fecha:** 22 de enero de 2025  
+**Lugar:** Aula G-02
+
+
+
+
+### Quinra sesión  
+**Fecha:** 27 de enero de 2025  
+**Lugar:** Aula G-08
