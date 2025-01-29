@@ -121,7 +121,12 @@ En esta sesión:
 
 
 
-
-### Quinra sesión  
+### Quinta sesión  
 **Fecha:** 27 de enero de 2025  
 **Lugar:** Aula G-08
+
+Se habló de las bases de datos de AWS y que vamos a hacer el grupo de AWS para las certificaciones y tomar el examen
+
+### Sexta sesión  
+**Fecha:** 29 de enero de 2025  
+**Lugar:** Aula G-02
