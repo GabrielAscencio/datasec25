@@ -28,3 +28,10 @@ Aquí es donde va a estar todo lo bueno.
 </p>
 
 [🔗 Ver en Credly 🔗](https://www.credly.com/badges/97d24792-a005-4c25-af59-41925b2fb909/public_url)
+
+### AWS Academy Graduate - AWS Academy Cloud Foundations
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" />
+</p>
+
+[🔗 Ver en Credly 🔗](https://www.credly.com/badges/a17f084a-9c2e-4167-b46f-517acda1c80c/public_url)

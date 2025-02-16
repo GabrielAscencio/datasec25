@@ -125,7 +125,10 @@ En esta sesión:
 **Fecha:** 27 de enero de 2025  
 **Lugar:** Aula G-08
 
-Se habló de las bases de datos de AWS y que vamos a hacer el grupo de AWS para las certificaciones y tomar el examen
+Se habló de las bases de datos de AWS y que vamos a hacer el grupo de AWS para las certificaciones y tomar el examen.
+
+De tarea hay que usar un MariaDB cluster donde va a vivir nuestra app Beelzebub honeypot.
+Lo podemos realizar en modo local, con el agente de DatabaseManager y el CLI.
 
 ### Sexta sesión  
 **Fecha:** 29 de enero de 2025  
